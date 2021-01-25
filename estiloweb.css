@@ -1,0 +1,108 @@
+.imagen
+{
+	position: absolute;
+	left: 70px;
+}
+
+.periodo1{
+	position: absolute;
+	top: 170px;
+	left: 150px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+  }
+  .periodo1:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+  }
+
+  .periodo2{
+  	position: absolute;
+	top: 170px;
+	left:465px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+  }
+  .periodo2:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+  }
+
+  .periodo3{
+  	position: absolute;
+	top: 170px;
+	left:780px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+  }
+  .periodo3:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+  }
+
+  .periodo4{
+  	position: absolute;
+	top: 170px;
+	left:1100px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+  }
+  .periodo4:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+  }
+
+  .yo
+{
+	position: absolute;
+	left: 200px;
+	top:300px;
+}
+
+.info
+{
+	position: absolute;
+	top: 320px;
+	left: 700px;
+}
+
+.instagram
+{   
+	position: absolute;
+	top: 800px;
+	left: 630px;
+}
+
+.fondo
+{
+	position: absolute;
+	top:260px;
+	left:100px;
+	width: 1150px;
+	height: 460px;
+	background-color: rgba(0, 0, 0, .5);
+}
